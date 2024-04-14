@@ -6,7 +6,7 @@ This project aims to be my learning about how to building an end-to-end data eng
 
 ## System Architecture
 
-![System Architecture](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
+![System Architecture](./data-eng-arch.png)
 
 The project is designed with the following components:
 
