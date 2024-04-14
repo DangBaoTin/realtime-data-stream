@@ -60,4 +60,5 @@ pip install spark pyspark
 In the `virtenv/lib` folder, look for `pyspark` > `jars` and install addinal `.jar` files to the selected folder. Go to [MVN Repository](https://mvnrepository.com/) and download the following files:
 - Spark Cassandra Connector ver 3.4.1
 - Kafka 0.10+ Source For Structured Streaming ver 3.4.1
+
 And then insert these `.jar` files into the destination folder.
